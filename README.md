@@ -23,7 +23,8 @@ like wise go to so_long_bonus for bonus part (with animation)
 
 move with W A S D click ESH to exit:
 
-<img width="1351" alt="Screen Shot 2022-02-19 at 12 03 33 AM" src="https://user-images.githubusercontent.com/93848441/154772976-14c7adf5-5d84-4435-af30-2c7cc926e524.png">
+https://user-images.githubusercontent.com/93848441/154773240-d49850fd-2220-4f8d-9f9f-675b1341cf77.mov
+
 
 test diffrent maps by running the command :  ./so_long 'map-name.ber'
 
