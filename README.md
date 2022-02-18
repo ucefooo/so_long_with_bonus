@@ -17,10 +17,12 @@ move with W A S D click ESH to exit:
 
 
 
-like wise got to so_long_bonus for bonus part (with animation)
+like wise go to so_long_bonus for bonus part (with animation)
+
 <img width="828" alt="Screen Shot 2022-02-19 at 12 04 00 AM" src="https://user-images.githubusercontent.com/93848441/154772950-71552144-8de9-41ae-97cc-c6ea577eccfb.png">
 
 move with W A S D click ESH to exit:
+
 <img width="1351" alt="Screen Shot 2022-02-19 at 12 03 33 AM" src="https://user-images.githubusercontent.com/93848441/154772976-14c7adf5-5d84-4435-af30-2c7cc926e524.png">
 
 test diffrent maps by running the command :  ./so_long 'map-name.ber'
