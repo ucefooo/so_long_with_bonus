@@ -1,7 +1,7 @@
 # so_long_with_bonus
 42 project so long with bonus and makefile
 
-This is a video of running mmy so_long youtube : https://youtu.be/JBWW0kUK-SI
+This is a video of running my so_long on YouTube : https://youtu.be/JBWW0kUK-SI
 
 to work with file clone in your desktop and enter the folder:
 <img width="199" alt="Screen Shot 2022-02-19 at 12 01 21 AM" src="https://user-images.githubusercontent.com/93848441/154772872-0e774649-a918-4ded-9605-8f2896ea8971.png">
